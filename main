@@ -5,7 +5,7 @@
 import json
 import pickle
 import sys
-sys.path.insert(1, "C:/Users/Сергей/Downloads/lab2text.txt")
+sys.path.insert(1, "C:/Users/Сергей/Desktop/PRIKPROG_LAB2/lab2text.txt")
 from read_file import read_file
 
 
